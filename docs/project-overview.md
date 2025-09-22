@@ -12,7 +12,7 @@ als samenwerkingsplatform:
 - Automatisering met GitHub Actions en deployment naar GitHub Pages
 
 ## Team en Planning 
-Teamleden: Andre,Jeroen,Fabian   
+Teamleden: Jeroen, Andre, Jeroen   
 Eerste versie opleveren: eind week 1   
 Review en demo: week 2
 
