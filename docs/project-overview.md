@@ -30,3 +30,6 @@ Review en demo: week 2
   - `style.css` (huisstijl in Achmea-look) 
   - `script.js` (interactieve tips) 
 - `.github/` → workflows en governance-bestanden
+
+## Aanvullende doelstelling 
+De Preventieportal moet later ook interactieve quizzen bevatten.
